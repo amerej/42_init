@@ -1,2 +1,2 @@
-slash16.org est heberge chez: Online
-La commande que j'ai utilisee:  whois slash16.org | awk '/Registrar:/{print $2}'
+slash16.org est heberge chez: Amazon
+La commande que j'ai utilisee:  whois slash16.org | grep 'Name Server'
