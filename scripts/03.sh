@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -lLS $1
+ls -lS $1
