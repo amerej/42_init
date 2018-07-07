@@ -1,2 +1,2 @@
-slash16.org est heberge chez: Amazon
+slash16.org est heberge chez: aws
 La commande que j'ai utilisee:  whois slash16.org | grep 'Name Server'
